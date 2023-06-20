@@ -86,6 +86,7 @@ Lastly, configure help topics by going to Admin Panel -> Manage -> Help Topics. 
 <p>
 </p>
 <br />
-In the next tutorial, we will simulate a ticket request from initial intake to resolution.
+ Now that everything is configured in the next tutorial, we will simulate a ticket lifecycle from initial intake to resolution.
+ https://github.com/AaronGuajardo2/Ticket-LifeCycle/blob/main/README.md
 
 
